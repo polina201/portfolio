@@ -1,18 +1,26 @@
+body{
+  font-size: 20px  
+}
+
+
 nav {
     background-image: linear-gradient(to right, #EB6AA3, #FFBB73);
     padding: 15px;
     margin-top: 10px;
-    width: 400px;
+    width: 450px;
     
 }
+
 
 .link-nav{
     padding: 10px;
 }
 
+
 .link-header{
     text-decoration: none
 }
+
 
 main img {
     margin-bottom: 20px;
